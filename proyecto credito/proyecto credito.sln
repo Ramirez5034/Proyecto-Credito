@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto credito", "proyecto credito\proyecto credito.csproj", "{EA450B7F-99A3-4CD6-AF4D-678F1B4618E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA450B7F-99A3-4CD6-AF4D-678F1B4618E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA450B7F-99A3-4CD6-AF4D-678F1B4618E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA450B7F-99A3-4CD6-AF4D-678F1B4618E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA450B7F-99A3-4CD6-AF4D-678F1B4618E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEBB575E-9EDE-41D5-A7D7-1CF8367CF1F6}
+	EndGlobalSection
+EndGlobal

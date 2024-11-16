@@ -1,0 +1,55 @@
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\bin\Debug\proyecto credito.exe.config
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\bin\Debug\proyecto credito.exe
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\bin\Debug\proyecto credito.pdb
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\obj\Debug\proyecto credito.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Form1.resources
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Inicio.resources
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Properties.Resources.resources
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\obj\Debug\proyecto credito.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\obj\Debug\proyecto credito.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\obj\Debug\proyecto credito.exe
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\obj\Debug\proyecto credito.pdb
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Registro.resources
+C:\Users\Pablo\source\repos\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.FormAumento.resources
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\bin\Debug\proyecto credito.exe.config
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\bin\Debug\proyecto credito.exe
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\bin\Debug\proyecto credito.pdb
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.csproj.AssemblyReference.cache
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Form1.resources
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.FormAumento.resources
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Inicio.resources
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Properties.Resources.resources
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Registro.resources
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.csproj.GenerateResource.cache
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.csproj.CoreCompileInputs.cache
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.exe
+C:\Users\Seart\Downloads\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.pdb
+D:\proyecto credito\proyecto credito\proyecto credito\bin\Debug\proyecto credito.exe.config
+D:\proyecto credito\proyecto credito\proyecto credito\bin\Debug\proyecto credito.exe
+D:\proyecto credito\proyecto credito\proyecto credito\bin\Debug\proyecto credito.pdb
+D:\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.csproj.AssemblyReference.cache
+D:\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Form1.resources
+D:\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.FormAumento.resources
+D:\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Inicio.resources
+D:\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.menu.resources
+D:\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Properties.Resources.resources
+D:\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Registro.resources
+D:\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.csproj.GenerateResource.cache
+D:\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.csproj.CoreCompileInputs.cache
+D:\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.exe
+D:\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.pdb
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\bin\Debug\proyecto credito.exe.config
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\bin\Debug\proyecto credito.exe
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\bin\Debug\proyecto credito.pdb
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.csproj.AssemblyReference.cache
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.carritoCompras.resources
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Form1.resources
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.FormAumento.resources
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Inicio.resources
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.menu.resources
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Properties.Resources.resources
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto_credito.Registro.resources
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.csproj.GenerateResource.cache
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.csproj.CoreCompileInputs.cache
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.exe
+C:\Users\Seart\Downloads\proyecto credito (1)\proyecto credito\proyecto credito\proyecto credito\obj\Debug\proyecto credito.pdb
